@@ -33,17 +33,18 @@ This study investigates the systemic immune alterations in bone marrow aspirate 
 - Software for single-cell data processing:
   - 10X Genomics Cell Ranger
 
+
+## **Data Access**   
+Raw and processed scRNA-seq data are deposited in GEO (GSE274018) and SRA (PRJNA1144164). Access requests can be directed to the$
+
+## **Acknowledgments**
+This study was funded by The Billie and Bernie Marcus Foundation and the Georgia Research Alliance.
+
+
 ### **Setup**
 Clone this repository and install the required dependencies:
 ```bash
 git clone https://github.com/pchatterjee7/BMAC_OA_nonOA.git
 cd BMAC_OA_nonOA
-
-
-## **Data Access**
-Raw and processed scRNA-seq data are deposited in GEO (GSE274018) and SRA (PRJNA1144164). Access requests can be directed to the lead contact as per publication guidelines.
-
-## **Acknowledgments**
-This study was funded by The Billie and Bernie Marcus Foundation and the Georgia Research Alliance.
 
 
