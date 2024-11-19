@@ -39,10 +39,11 @@ Clone this repository and install the required dependencies:
 git clone https://github.com/pchatterjee7/BMAC_OA_nonOA.git
 cd BMAC_OA_nonOA
 
-Data Access
+
+## **Data Access**
 Raw and processed scRNA-seq data are deposited in GEO (GSE274018) and SRA (PRJNA1144164). Access requests can be directed to the lead contact as per publication guidelines.
 
-Acknowledgments
+## **Acknowledgments**
 This study was funded by The Billie and Bernie Marcus Foundation and the Georgia Research Alliance.
 
 
